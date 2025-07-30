@@ -60,9 +60,9 @@ presentation/ # Final slide deck used for storytelling
 
 ## 📎 Resources
 
-- 📄 [Final Report (PDF)](./report/MOD_Group_Project_Team_11.pdf)
-- 📊 [SQL Query Log](./queries/MOD_Query_Log_Team11.sql)
-- 🖥️ [Presentation Slides](./presentation/MOD_FINAL_PROJECT.pptx)
+- 📄 [Final Report (PDF)](./report/MOD_Group_Project_Team_11(1).pdf)
+- 📊 [SQL Query Log](./queries/MOD_query_log.sql)
+- 🖥️ [Presentation Slides](./presentation/MOD%20FINAL%20PROJECT.pptx)
 
 ---
 
