@@ -54,3 +54,30 @@ As part of Purdue’s *Management of Organizational Data (MGMT 58200)* course, o
 queries/ # Raw SQL query log (modular & step-by-step)
 report/ # PDF report with narrative, charts & conclusions
 presentation/ # Final slide deck used for storytelling
+
+
+---
+
+## 📎 Resources
+
+- 📄 [Final Report (PDF)](./report/MOD_Group_Project_Team_11.pdf)
+- 📊 [SQL Query Log](./queries/MOD_Query_Log_Team11.sql)
+- 🖥️ [Presentation Slides](./presentation/MOD_FINAL_PROJECT.pptx)
+
+---
+
+## 👥 Team Members
+
+- Nandini Priya Devalla
+- Deepak Saini
+- Kshitij Chauhan
+- Mokshda Sharma
+- Tushar Malankar
+
+---
+
+## 🚀 Why It Matters
+
+This project simulates the kind of **real-world, data-informed decision-making** software and analytics engineers contribute to. It combines structured data processing with business logic, SQL engineering, and storytelling — foundational skills for roles in backend/data/software engineering.
+
+---
